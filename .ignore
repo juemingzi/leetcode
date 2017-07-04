@@ -1,2 +1,14 @@
-/.idea/*
-target
+.DS_Store
+*.iml
+.classpath
+.project
+.settings/
+target/*.iml
+.idea/
+.settings/
+target/
+bin/
+clear.bat
+eclipse.bat
+package.bat
+*.MF
