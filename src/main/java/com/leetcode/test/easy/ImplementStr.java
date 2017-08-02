@@ -1,7 +1,4 @@
-package com.leetcode.test;
-
-import java.util.ArrayList;
-import java.util.List;
+package com.leetcode.test.easy;
 
 /**
  * Created by renyali

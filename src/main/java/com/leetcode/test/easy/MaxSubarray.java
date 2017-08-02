@@ -1,4 +1,4 @@
-package com.leetcode.test;
+package com.leetcode.test.easy;
 
 /**
  * Created by renyali
