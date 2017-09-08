@@ -1,5 +1,9 @@
 package com.leetcode.test.midium;
 
+import java.util.Enumeration;
+import java.util.HashMap;
+import java.util.Hashtable;
+
 /**
  * Created by renyali
  * Date: 2017/8/7 20:45
@@ -37,5 +41,21 @@ public class SwapNodesInpairs {
             end.next = start;
         }
         return retHead;
+    }
+    public static void ll() {
+        HashMap hashMap = new HashMap();
+        hashMap.entrySet();
+        Hashtable hashtable = new Hashtable();
+        hashtable.put(1,2);
+        hashtable.put(2,3);
+        hashtable.put(4,4);
+        Enumeration enumeration = hashtable.elements();
+        while (enumeration.hasMoreElements()) {
+            System.out.println(enumeration.nextElement());
+        }
+    }
+
+    public static void main(String args[]) {
+        ll();
     }
 }
